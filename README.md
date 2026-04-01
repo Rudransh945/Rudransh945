@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hi, I'm Rudransh
 
-<!--
-**Rudransh945/Rudransh945** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Science student focused on building **real-world GenAI and Agentic AI systems**.
 
-Here are some ideas to get you started:
+I don’t just learn concepts — I build systems that solve problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I’m Doing Right Now
+
+* Building **Agentic AI systems (LangGraph + Groq + LangChain)**
+* Working on **LLM-based workflows and autonomous agents**
+* Exploring **RAG pipelines and tool-using AI systems**
+
+---
+
+## 🧠 Tech Stack
+
+* **Languages:** Python, C++
+* **GenAI:** LangChain, LangGraph, Groq API
+* **AI/ML:** Scikit-learn, NLP, basics of Deep Learning & fine-tuning
+* **Tools:** Git, FastAPI (learning), Docker (learning)
+
+---
+
+## 📈 Currently Improving
+
+* Designing scalable **AI systems**
+* Understanding **LLM internals and optimization**
+* Learning **ML, Deep Learning, and fine-tuning techniques**
+
+---
+
+## ⚡ What Makes Me Different
+
+* I focus on **building over consuming content**
+* I try to understand **how things work internally**
+* I stay consistent even when things break
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: (https://www.linkedin.com/in/rudranshraman/)
+* GitHub: https://github.com/Rudransh945
+  
+
+---
+
+## 🧩 Note
+
+I prefer working independently and figuring things out from scratch — that’s how I grow.
