@@ -19,7 +19,7 @@ I don’t just learn concepts — I build systems that solve problems.
 * **Languages:** Python, C++
 * **GenAI:** LangChain, LangGraph, Groq API
 * **AI/ML:** Scikit-learn, NLP, basics of Deep Learning & fine-tuning
-* **Tools:** Git, FastAPI (learning), Docker (learning)
+* **Tools:** Git, FastAPI (learning), Docker (learning) ,AWS (learning)
 
 ---
 
