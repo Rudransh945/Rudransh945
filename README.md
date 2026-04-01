@@ -31,14 +31,6 @@ I don’t just learn concepts — I build systems that solve problems.
 
 ---
 
-## ⚡ What Makes Me Different
-
-* I focus on **building over consuming content**
-* I try to understand **how things work internally**
-* I stay consistent even when things break
-
----
-
 ## 📫 Connect With Me
 
 * LinkedIn: (https://www.linkedin.com/in/rudranshraman/)
